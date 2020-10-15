@@ -5,7 +5,7 @@ docScores.forEach((element) => {
     docIds.push(element[0]);
 });
 
-function pushDocTable(reference) {
+function pushDocTable(reference) {sdf
     docHeading = document.getElementById('docHeading');
     docContent = document.getElementById('docContent');
     docScores.forEach((value) => {
